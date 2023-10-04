@@ -1,6 +1,6 @@
 # TechDocsDemoMarc
 
-Descriptiviation
+Descriptiviation.
 
 ## Getting started
 
